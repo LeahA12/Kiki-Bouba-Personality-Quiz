@@ -9,7 +9,7 @@ The Kiki-Bouba effect is a non-linguistic phenomenon where most people associate
 This software is a command-line personality quiz developed in Python that uses this concept. It prompts users to answer questions across several categories (movies, hobbies, music, and personality traits) to determine which archetype their personality aligns with. The final output provides a percentage-based score for each category, along with an overall percentage.
   
 ## FILES: 
-* KikiVsBoubaPersonalityQuiz.py: This is the main Python script that contains the code for the quiz's questions, scoring system, and final output.
+* ```KikiVsBoubaPersonalityQuiz.py:``` This is the main Python script that contains the code for the quiz's questions, scoring system, and final output.
    
 ## BUILD INSTRUCTIONS: 
 Execute the file using the command:
