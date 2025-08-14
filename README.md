@@ -7,7 +7,9 @@ A command-line personality quiz developed in Python to determine Kiki or Bouba p
 * September 24, 2023
 
 ## PURPOSE OF SOFTWARE: 
-This software is a command line personality quiz developed in Python. It prompts users to answer a series of questions across several categories **(movies, hobbies, music, and personality traits)** to determine whether their personality aligns more closely with the "Kiki" or "Bouba" shape archetype. The final output provides a percentage-based score for each category, along with an overall percentage.
+The Kiki-Bouba effect is a non-linguistic phenomenon where most people associate a spiky, sharp-edged shape with the name "Kiki" and a round, blob-like shape with the name "Bouba." <img width="617" height="440" alt="image" src="https://github.com/user-attachments/assets/3037ab3b-c4b7-4cbd-af67-b7701b9959b3" />
+
+This software is a command-line personality quiz developed in Python that uses this concept. It prompts users to answer questions across several categories (movies, hobbies, music, and personality traits) to determine which archetype their personality aligns with. The final output provides a percentage-based score for each category, along with an overall percentage.
   
 ## FILES: 
 * KikiVsBoubaPersonalityQuiz.py: This is the main Python script that contains the code for the quiz's questions, scoring system, and final output.
@@ -34,4 +36,6 @@ Execute the file using the command:
       ```
 
 ## ADDITIONAL INFORMATION:
-* 
+* This project was developed during a 24-hour hackathon
+
+
