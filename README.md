@@ -22,6 +22,7 @@ Execute the file using the command:
 1.  **Execution:** Run Python file as specified in the build instructions.
 2.  **User Input:** Follow the prompts and answer each question on a scale of 1 to 10.
 3. **Output Verification:**
+   
    A. The program should print a percentage result for each category **(movies, hobbies, music, and personality traits)** for how Kiki or Bouba the user is. For example:
       ```
       Your tastes in movies are 38% Kiki!
